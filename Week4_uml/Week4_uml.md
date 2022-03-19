@@ -86,7 +86,7 @@ ATM自动取款机，持卡人可以使用银行卡，根据密码办理取款�
 
 ### 3.1.3 整体用例图
 
-![.png](/api/users/image?path=8719/images/1646990567436.png)
+![.png](https://github.com/power-on-off/software/blob/main/Week4_uml/src/%E7%94%A8%E4%BE%8B%E5%9B%BE.png)
 
 
 
