@@ -1,0 +1,10 @@
+{
+    "id": "frog",
+    "name": "青呱呱记账本",
+    "version": "0.0.8",
+    "description": "青呱呱记账本",
+    "keywords": [
+        "记账本",
+		"备忘录"
+    ]
+}
